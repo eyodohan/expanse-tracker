@@ -1,0 +1,133 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Roboto-Black.ttf",
+      "sha1": "14701060227dbc4a4ec9901970e8a58bb136efd9"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "3009f8bc7f3aa84fd483469422442cc3789e0579"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "6cbb57ba2355cf442e06899898ff5af55867103e"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "cd6a28033099099036e2a2182c9c4475394deaad"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Italic.ttf",
+      "sha1": "4c4faf7a3fae4d0b1474561f0080995d358861ac"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "191dda7a5142990cd980727d43b27e4802f0b321"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "693445f41eaa750b789a77568f9d6d995e85e0b2"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "adbc3bde424bcf7dbc38f148005c8319825891f2"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "75feb92a7fc61d00e8ca610a700344738ef5ae32"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "1d1d41fcadc571decb6444211b7993b99ce926e2"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Thin.ttf",
+      "sha1": "f71ccd563f95ccc187cf4fe81287445e91f7121b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "e3fb2b2a0dc2daf84d79cfff4b345a2afac132bc"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-Bold.ttf",
+      "sha1": "c348d9f1b95e103ac2d14d56682867368f385b1a"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-BoldItalic.ttf",
+      "sha1": "3bd9f2b8c65c4dd80f535b9ddd937784e0d71ce6"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-Italic.ttf",
+      "sha1": "394439fa97f36bba80f061e32e46ead1650e798e"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-Light.ttf",
+      "sha1": "df222c27b5e41dc89ca76a4479c9dd3ae6c1acbc"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-LightItalic.ttf",
+      "sha1": "d974583f3217141e4fc04bf94c3c6f94d9f56f8f"
+    },
+    {
+      "path": "src/assets/fonts/RobotoCondensed-Regular.ttf",
+      "sha1": "c722696501a8663d64208d754e4db8165d3936f6"
+    },
+    {
+      "path": "src/assets/icons/baby_car_icon.png",
+      "sha1": "009904576f4db29b01610bba605bd27f22899ab3"
+    },
+    {
+      "path": "src/assets/icons/back_arrow_icon.png",
+      "sha1": "e261d408027f2c97fd056a84c6cfa65cf6c5f533"
+    },
+    {
+      "path": "src/assets/icons/calendar_icon.png",
+      "sha1": "187173126398b7a8be2bee49124919642c49b57b"
+    },
+    {
+      "path": "src/assets/icons/chart_icon.png",
+      "sha1": "c56c91a6eb05dfddc945f46b99bf25563c8cfc55"
+    },
+    {
+      "path": "src/assets/icons/cloth_icon.png",
+      "sha1": "38944d220ca8cff7e1e108db7a27821e0bdd68d8"
+    },
+    {
+      "path": "src/assets/icons/down_arrow.png",
+      "sha1": "8d58c02a38a1928085fccb2c9eb704f12c5b8709"
+    },
+    {
+      "path": "src/assets/icons/education_icon.png",
+      "sha1": "fc93be4a6e37b7acf73058b08b4602829b87ddbd"
+    },
+    {
+      "path": "src/assets/icons/food_icon.png",
+      "sha1": "ebe2b1af7800aaae6a16bfedd48a290f885a3460"
+    },
+    {
+      "path": "src/assets/icons/healthcare_icon.png",
+      "sha1": "d57549a8dadadb681c5a21bf77b0c03cca42750e"
+    },
+    {
+      "path": "src/assets/icons/menu_icon.png",
+      "sha1": "57b32c398724da521cf0e730295b873ae057b206"
+    },
+    {
+      "path": "src/assets/icons/more_icon.png",
+      "sha1": "59c3e95415da57684b8fc36ebc9ecb695d7fc855"
+    },
+    {
+      "path": "src/assets/icons/pin.png",
+      "sha1": "145de6d5363b0adbd817e359db3af9f5e02813c9"
+    },
+    {
+      "path": "src/assets/icons/sports_icon.png",
+      "sha1": "77aac0ae86dd3bda16cec26cc47e9575a196f058"
+    },
+    {
+      "path": "src/assets/icons/up_arrow.png",
+      "sha1": "daf5a6c2665b9c57b79674770024831d8499f90c"
+    }
+  ]
+}
